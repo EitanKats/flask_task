@@ -1,21 +1,3 @@
-Skip to content
-
-Search…
-All gists
-GitHub
-New gist
-@EitanKats
-3
-0@MOOOWOOOMOOOWOOO/py-gitignore
-Created 2 years ago •
-
-<script src="https://gist.github.com/MOOOWOOO/3cf91616c9f3bbc3d1339adfc707b08a.js"></script>
-
- Code  Revisions 1  Stars 3
-python pycharm gitignore
- py-gitignore
-# Created by .ignore support plugin (hsz.mobi)
-### Python template
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
